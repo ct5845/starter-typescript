@@ -1,0 +1,36 @@
+{
+  "name": "start-typescript",
+  "version": "1.0.0",
+  "description": "Starter project for typescript.",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp start",
+    "test": "gulp test",
+    "debug": "gulp start:debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ct5845/starter-typescript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ct5845/starter-typescript/issues"
+  },
+  "homepage": "https://github.com/ct5845/starter-typescript#readme",
+  "dependencies": {
+    "nodemon": "^1.10.2",
+    "tslint": "^3.15.1",
+    "typescript": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.2.33",
+    "@types/node": "^6.0.38",
+    "gulp": "^3.9.1",
+    "del": "^2.2.2",
+    "gulp-jasmine": "^2.4.1",
+    "gulp-typescript": "^3.1.2",
+    "jasmine": "^2.5.1"
+  }
+}
