@@ -21,7 +21,7 @@
   "homepage": "https://github.com/ct5845/starter-typescript#readme",
   "dependencies": {
     "nodemon": "^1.10.2",
-    "tslint": "^3.15.1",
+    "tslint": "^4.0.2",
     "typescript": "^2.0.0"
   },
   "devDependencies": {
